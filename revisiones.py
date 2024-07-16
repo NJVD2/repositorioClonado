@@ -1,0 +1,5 @@
+print("hola este es archivo en la rama de test")
+print("no poner etiquetras de frameworks")
+print("sin  celular")
+print("no es responsivo")
+print("sin direccion")
